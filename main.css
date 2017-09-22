@@ -1,0 +1,32 @@
+body {
+  background-color: #ed6363;
+}
+
+h1 {
+  color:#062b2a;
+  font-size: 75px;
+  font-family: 'Baloo Bhaijaan', cursive;
+  text-align: center;
+}
+
+h2 {
+  color: #062b2a;
+  font-family:'Baloo Bhaijaan', cursive;
+  font-size: 30px;
+}
+
+a:link {
+    color: #062b2a;
+}
+
+a:visited {
+    color: #062b2a;
+}
+
+a:hover {
+    color: #000000;
+}
+
+a:active {
+    color: #04204c;
+}
